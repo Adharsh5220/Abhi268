@@ -36,10 +36,11 @@ s.no|name|roll.no
 2|Abhi|e3
 3|Rufus|e4
 4|Venkat Sai|e5
+5|Dwijith|e6
 
 Adharsh is good:+1: :shipit:
 
-~~abhi is bad~~
+~~abhi is bad~~ 😧
   
   
   
